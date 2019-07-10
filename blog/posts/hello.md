@@ -3,8 +3,8 @@ title: vuepress blog
 lang: en-GB
 display: home
 description: How this site came to be
-image: https://picsum.photos/1920/1080/?random&date=2019-07-07
-date: 2019-10-07
+image: https://picsum.photos/1920/1080/?random&date=2019-07-10
+date: 2019-07-10
 tags:
   - vue
   - vuepress
