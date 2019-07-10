@@ -15,7 +15,8 @@ module.exports = {
     defaultTheme: 'dark',
     cover: '/img/cover.jpg',
     //logo: '/img/logo.png',
-    useVssue: true,
+    //needs config
+    useVssue: false,
     postTime: {
       createTime: 'Creation time',
       lastUpdated: 'Last Reviewed'
