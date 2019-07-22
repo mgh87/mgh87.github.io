@@ -9,3 +9,5 @@ Uses [vuepress-theme-ououe-template](https://github.com/tolking/vuepress-theme-o
 [Documentation](https://ououe.com/lib/vuepress-theme-ououe.html)
 
 Power by [vuepress](https://github.com/vuejs/vuepress)
+
+MIT license
